@@ -1,0 +1,13 @@
+.field-validation-error
+{
+    color: Red;
+}
+.receipt-result
+{
+    font-weight: bold;
+    border: 2px solid;
+    width: 200px;
+    background-color: Silver;
+    padding: 5px;
+    margin-top: 10px;
+}
